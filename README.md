@@ -6,10 +6,10 @@
 5. I've previously presented at BSidesTLV, Black Hat USA Arsenal and SecTor. 
 
 ### Some highlights from other public research and talks I've worked on:
-1. https://labs.zenity.io/ (the Zenity research blog)
+1. https://labs.zenity.io/ 
 2. https://labs.zenity.io/p/long-winding-road-dlp-patches-power-platform
-3. https://www.wizcase.com/blog/heyyo-leak-research/ (Wizcase data leak)
-4. https://www.wizcase.com/blog/dating-breaches-research/ (Wizcase data leak)
+3. https://www.wizcase.com/blog/heyyo-leak-research/ 
+4. https://www.wizcase.com/blog/dating-breaches-research/ 
 5. https://www.blackhat.com/us-24/briefings/schedule/index.html#-ways-to-break-your-copilot-39770
 6. https://www.blackhat.com/us-24/arsenal/schedule/index.html#living-off-the-o-land-with-powerpwn-39636 
 7. https://www.blackhat.com/sector/2024/arsenal/schedule/index.html#living-off-the-o-land-with-powerpwn-43287
